@@ -1,8 +1,11 @@
 # New Student
 
+Deployed on Itch.io at: https://azzy-cheme.itch.io/new-student
+
+Made with Godot 3.6.1 and GDScript.
+
 ## Instructions
 
-Deployed on Itch.io at: https://azzy-cheme.itch.io/new-student
 Left and right arrow keys to navigate, up arrow to jump. Double jumping is enabled, just press the up arrow key twice quickly. 
 
 ## Note
