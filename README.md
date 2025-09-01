@@ -1,6 +1,6 @@
 # New Student
 
-Deployed on Itch.io at: https://azzy-cheme.itch.io/new-student
+A simple platformer deployed on Itch.io at: https://azzy-cheme.itch.io/new-student
 
 Made with Godot 3.6.1 and GDScript.
 
